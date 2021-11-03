@@ -3,7 +3,7 @@
       width="50px" 
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToscdusMNjQbffwasgiLuCsbCNZisJRE95Fg&usqp=CAU" />
 </p>
-<a href="https://github.com/LaurentJouron#author-and-collaborators" target="_blank">Profil en français</a>
+<a href="https://github.com/LaurentJouron#-----welcome-to-my-french-profile-----" target="_blank">Profil en français</a>
 
 __________
 
@@ -262,7 +262,12 @@ ___
 </table>
 
 ___________
-
+<p align="center">
+    <img align="left"
+      width="50px" 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4PiKOshpQfsfBToRmImIP_XLnyDnKDOL5A&usqp=CAU" />
+</p>
+<a href="https://github.com/LaurentJouron#welcome-to-my-profile-github" target="_blank">Back to profile in English</a>
 
 <h2 align="center"> --- Welcome to my French profile --- </h2>
 
