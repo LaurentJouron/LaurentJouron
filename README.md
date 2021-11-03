@@ -37,6 +37,29 @@ ___________
 *To succeed the mission I have set myself, I am alternating in a perfumery company in Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> and I follow the distance courses on the platform : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 ___________
 
+<h2 align="center">My accomplishments</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/H4D-Game">
+        <img width="120px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
+        <sub><b>H4D-Game</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/H4D-Game" title="H4D-Game" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com">
+        <img width="120px"
+          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
+        <sub><b>books-toscrape.com</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com" ></a> 
+    </td>
+  </tr>
+</table>
+
+___________
+
 <h2 align="center">Language worked at Expressions-Parfumées</h2>
 
 <table>
@@ -301,6 +324,29 @@ ___________
 
 *Pour réussir la mission que je me suis fixée, je suis en alternance dans une entreprise de parfumerie à Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 ___________
+<h2 align="center">Mes réalisations</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/H4D-Game">
+        <img width="120px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
+        <sub><b>H4D-Game</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/H4D-Game" title="H4D-Game" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com">
+        <img width="120px"
+          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
+        <sub><b>books-toscrape.com</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com" ></a> 
+    </td>
+  </tr>
+</table>
+
+__________
+
 
 <h2 align="center">Langage travaillé chez Expressions-Parfumées</h2>
 
