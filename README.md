@@ -42,18 +42,18 @@ ___________
 <table>
   <tr>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/H4D-Game">
+      <a href=https://github.com/LaurentJouron/H4D-Game>
         <img width="120px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
         <sub><b>H4D-Game</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/H4D-Game" title="H4D-Game" ></a> 
+      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game" ></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/books-toscrape.com">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com>
         <img width="120px"
           src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com" ></a> 
+      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
     </td>
   </tr>
 </table>
@@ -329,18 +329,18 @@ ___________
 <table>
   <tr>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/H4D-Game">
+      <a href=https://github.com/LaurentJouron/H4D-Game>
         <img width="120px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
         <sub><b>H4D-Game</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/H4D-Game" title="H4D-Game" ></a> 
+      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game" ></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/books-toscrape.com">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com>
         <img width="120px"
           src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com" ></a> 
+      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com ></a> 
     </td>
   </tr>
 </table>
