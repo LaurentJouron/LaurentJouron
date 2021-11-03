@@ -264,7 +264,7 @@ ___
 ___________
 
 
-<h2 align="center">##################################################################</h2>
+<h2 align="center"> --- Welcome to my French profile --- </h2>
 
 
 <h1 align="center">Bienvenue sur mon profil GitHub😉</h1>
