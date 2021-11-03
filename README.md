@@ -1,3 +1,12 @@
+<p align="center">
+    <img align="left"
+      width="50px" 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToscdusMNjQbffwasgiLuCsbCNZisJRE95Fg&usqp=CAU" />
+</p>
+<a href="https://github.com/LaurentJouron#author-and-collaborators" target="_blank">Profil en français</a>
+
+__________
+
 <h1 align="center">Welcome to my profile GitHub😉</h1>
 <p align="center">
   <a href="https://twitter.com/LaurentJouron">
