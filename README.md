@@ -106,15 +106,17 @@ The training is divided into 13 projects, which contain modules with certificate
 These are the ones that are validated.
 ___
 
-1 - Take charge of your training :
+Project 1 : 
+* Take charge of your training :
   * Understanding the Web
   * Implement an information monitoring system
   * Develop your soft skills
   * learning to learn
   * Manage your time effectively
 ___
+Project 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
 
-2 - Use the Python basics for market analysis :
+* Use the Python basics for market analysis :
   * Learn the basics of the Python language
   * Learn about Pyhon for data analysis
   * Learn how to use the command line in a terminal
@@ -124,7 +126,8 @@ ___
 
 ___
 
-3 - Design a Python application tailored to a customer’s needs :
+Project 3 : 
+* Design a Python application tailored to a customer’s needs :
   * Learn about agile project management
 
 
@@ -396,7 +399,9 @@ La formation se décompose en 13 projets, qui contient des modules avec certific
 Voici ceux qui sont validés.
 ___
 
-1 - Prenez en main votre formation :
+Projet 1 :
+
+* Prenez en main votre formation :
   * Comprendre le Web
   * Mettez en place un système de veille informationnelle
   * Développez vos soft skills
@@ -404,7 +409,9 @@ ___
   * Gérez votre temps efficacement
 ___
 
-2 - Utilisez les bases de Python pour l'analyse de marché :
+Projet 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
+
+* Utilisez les bases de Python pour l'analyse de marché :
   * Apprenez les bases du langage Python
   * Initiez-vous à Pyhon pour l'analyse de données
   * Apprenez à utiliser la ligne de commande dans un terminal
@@ -414,7 +421,9 @@ ___
 
 ___
 
-3 - Designez une application Python adaptée aux besoins d'un client
+Projet 3 : 
+
+* Designez une application Python adaptée aux besoins d'un client
   * Initiez-vous à la gestion de projet agile
 
 
