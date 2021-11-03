@@ -323,7 +323,9 @@ ___________
 
 
 *Pour réussir la mission que je me suis fixée, je suis en alternance dans une entreprise de parfumerie à Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
+
 ___________
+
 <h2 align="center">Mes réalisations</h2>
 
 <table>
@@ -340,7 +342,7 @@ ___________
         <img width="120px"
           src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com" title="books-toscrape.com ></a> 
+      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
     </td>
   </tr>
 </table>
