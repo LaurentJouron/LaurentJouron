@@ -129,6 +129,7 @@ ___
 Project 3 : 
 * Design a Python application tailored to a customer’s needs :
   * Learn about agile project management
+  * Apply the Domain-Driven Design principle to your application
 
 
 ___
@@ -425,6 +426,7 @@ Projet 3 :
 
 * Designez une application Python adaptée aux besoins d'un client
   * Initiez-vous à la gestion de projet agile
+  * Appliquez le principe du Domain-Driven Design à votre application
 
 
 ___
