@@ -1,3 +1,33 @@
+Direct access to my achievements :
+
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/H4D-Game>
+        <img width="120px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
+        <sub><b>H4D-Game</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game"></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com>
+        <img width="120px"
+          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
+        <sub><b>books-toscrape.com</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com"></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
+    </td>
+  </tr>
+</table>
+
+_________
+
 <p align="center">
     <img align="left"
       width="50px" 
@@ -53,7 +83,14 @@ ___________
         <img width="120px"
           src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
+      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a>
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
   </tr>
 </table>
@@ -106,38 +143,43 @@ The training is divided into 13 projects, which contain modules with certificate
 These are the ones that are validated.
 ___
 
-Project 1 : 
+Project 1 : *The deliverables: an Excel file of the training schedule, the presentation on the Workspace and technology watch.*
+
 * Take charge of your training :
-  * Understanding the Web
-  * Implement an information monitoring system
-  * Develop your soft skills
-  * learning to learn
-  * Manage your time effectively
+  * <a href="https://openclassrooms.com/fr/courses/1946386-comprendre-le-web" target="_blank">Understanding the Web</a>
+  * <a href="https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle" target="_blank">Implement an information monitoring system</a>
+  * <a href="https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills" target="_blank">Develop your soft skills</a>
+  * <a href="https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre" target="_blank">learning to learn</a>
+  * <a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement" target="_blank">Manage your time effectively</a>
+
+Validated
 ___
+
 Project 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
 
 * Use the Python basics for market analysis :
-  * Learn the basics of the Python language
-  * Learn about Pyhon for data analysis
-  * Learn how to use the command line in a terminal
-  * Setting up your Python environment
-  * Speak in public
-  * Manage code with Git and GitHub
+  * <a href="https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python" target="_blank">Learn the basics of the Python language</a>
+  * <a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees" target="_blank">Learn about Pyhon for data analysis</a>
+  * <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal" target="_blank">Learn how to use the command line in a terminal</a>
+  * <a href="https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python" target="_blank">Setting up your Python environment</a>
+  * <a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public" target="_blank">Speak in public</a>
+  * <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github" target="_blank"> Manage code with Git and GitHub</a>
 
+Validated
 ___
 
-Project 3 : 
-* Design a Python application tailored to a customer’s needs :
-  * Learn about agile project management
-  * Apply the Domain-Driven Design principle to your application
+Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank">learn@home</a>
 
+* Design a Python application tailored to a customer’s needs :
+  * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Learn about agile project management</a>
+  * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Apply the Domain-Driven Design principle to your application</a>
 
 ___
 
 In addition, I have invested in other modules to better understand the needs of IT.
 These are the ones that are validated.
 
-  * Learn how algorithms work
+  * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Learn how algorithms work</a>
 
 ___
 
@@ -311,6 +353,36 @@ ___________
   </a>
 </p>
 
+Accès direct à mes réalisations :
+
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/H4D-Game>
+        <img width="120px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
+        <sub><b>H4D-Game</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/books-toscrape.com>
+        <img width="120px"
+          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
+        <sub><b>books-toscrape.com</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
+    </td>
+  </tr>
+</table>
+
+_________
+
 <p align="center">
     <img align="left"
       width="50px" 
@@ -347,6 +419,13 @@ ___________
           src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
   </tr>
 </table>
@@ -400,33 +479,36 @@ La formation se décompose en 13 projets, qui contient des modules avec certific
 Voici ceux qui sont validés.
 ___
 
-Projet 1 :
+Projet 1 : *Les livrables : un fichier Excel du le planning de la formation, la présentation sur le Workspace et la veille technologique.*
 
 * Prenez en main votre formation :
-  * Comprendre le Web
-  * Mettez en place un système de veille informationnelle
-  * Développez vos soft skills
-  * Apprendre à apprendre
-  * Gérez votre temps efficacement
+  * <a href="https://openclassrooms.com/fr/courses/1946386-comprendre-le-web" target="_blank">Comprendre le Web</a>
+  * <a href="https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle" target="_blank">Mettez en place un système de veille informationnelle</a>
+  * <a href="https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills" target="_blank">Développez vos soft skills</a>
+  * <a href="https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre" target="_blank">Apprendre à apprendre</a>
+  * <a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement" target="_blank">Gérez votre temps efficacement</a>
+
+Validé
 ___
 
 Projet 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
 
 * Utilisez les bases de Python pour l'analyse de marché :
-  * Apprenez les bases du langage Python
-  * Initiez-vous à Pyhon pour l'analyse de données
-  * Apprenez à utiliser la ligne de commande dans un terminal
-  * Metter en place votre environnement Python
-  * Prenez la parole en public
-  * Gérez du code avec Git et GitHub
+  * <a href="https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python" target="_blank">Apprenez les bases du langage Python</a>
+  * <a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees" target="_blank">Initiez-vous à Pyhon pour l'analyse de données</a>
+  * <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal" target="_blank">Apprenez à utiliser la ligne de commande dans un terminal</a>
+  * <a href="https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python" target="_blank">Metter en place votre environnement Python</a>
+  * <a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public" target="_blank">Prenez la parole en public</a>
+  * <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github" target="_blank"> Gérez du code avec Git et GitHub</a>
 
+Validé
 ___
 
-Projet 3 : 
+Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank">learn@home</a>
 
-* Designez une application Python adaptée aux besoins d'un client
-  * Initiez-vous à la gestion de projet agile
-  * Appliquez le principe du Domain-Driven Design à votre application
+* Designez une application Python adaptée aux besoins d'un client :
+  * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Initiez-vous à la gestion de projet agile</a>
+  * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Appliquez le principe du Domain-Driven Design à votre application</a>
 
 
 ___
@@ -434,7 +516,7 @@ ___
 Par ailleurs, je me suis investit dans d'autre module pour mieux comprendre les besoins de l'informatique.
 Voici ceux qui sont validés.
 
-  * Découvrez le fonctionnement des algorithmes
+  * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Découvrez le fonctionnement des algorithmes</a>
 
 ___
 
