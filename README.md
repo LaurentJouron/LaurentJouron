@@ -144,6 +144,7 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
 * Design a Python application tailored to a customer’s needs :
   * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Learn about agile project management</a>
   * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Apply the Domain-Driven Design principle to your application</a>
+  * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Design a clickable interface</a>
 
 ___
 
@@ -151,6 +152,7 @@ In addition, I have invested in other modules to better understand the needs of 
 These are the ones that are validated.
 
   * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Learn how algorithms work</a>
+  * <a href="https://openclassrooms.com/fr/courses/5192236-menez-une-recherche-utilisateur/5448681-realisez-une-observation-de-terrain" target="_blank">Conduct a field observation</a>
 
 ___
 
@@ -450,6 +452,7 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
 * Designez une application Python adaptée aux besoins d'un client :
   * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Initiez-vous à la gestion de projet agile</a>
   * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Appliquez le principe du Domain-Driven Design à votre application</a>
+  * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Concevez une interface cliquable</a>
 
 
 ___
@@ -458,6 +461,7 @@ Par ailleurs, je me suis investit dans d'autre module pour mieux comprendre les 
 Voici ceux qui sont validés.
 
   * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Découvrez le fonctionnement des algorithmes</a>
+  * <a href="https://openclassrooms.com/fr/courses/5192236-menez-une-recherche-utilisateur/5448681-realisez-une-observation-de-terrain" target="_blank">Réalisez une observation de terrain</a>
 
 ___
 
