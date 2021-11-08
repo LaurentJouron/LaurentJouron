@@ -19,7 +19,7 @@ Direct access to my achievements :
     <td align="center">
       <a href=https://github.com/LaurentJouron/Learn-home>
         <img width="140px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+          src="https://user.oc-static.com/upload/2020/09/08/1599557620417_Learn%40Home.png" /><br />
         <sub><b>learn@home</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
@@ -65,35 +65,6 @@ ___________
 
 
 *To succeed the mission I have set myself, I am alternating in a perfumery company in Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> and I follow the distance courses on the platform : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
-___________
-
-<h2 align="center">My accomplishments</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/H4D-Game>
-        <img width="120px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
-        <sub><b>H4D-Game</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game" ></a> 
-    </td>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/books-toscrape.com>
-        <img width="120px"
-          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
-        <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a>
-    </td>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/Learn-home>
-        <img width="140px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
-        <sub><b>learn@home</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
-    </td>
-  </tr>
-</table>
 
 ___________
 
@@ -374,7 +345,7 @@ Accès direct à mes réalisations :
     <td align="center">
       <a href=https://github.com/LaurentJouron/Learn-home>
         <img width="140px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
+          src="https://user.oc-static.com/upload/2020/09/08/1599557620417_Learn%40Home.png" /><br />
         <sub><b>learn@home</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
@@ -389,7 +360,7 @@ _________
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToscdusMNjQbffwasgiLuCsbCNZisJRE95Fg&usqp=CAU" />
 </p>
 
-### ``--- Explication en français ---``
+### ``--- Présentation en français ---``
 
 Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément dans le développement d'application.
 ___________
@@ -399,36 +370,6 @@ ___________
 
 
 *Pour réussir la mission que je me suis fixée, je suis en alternance dans une entreprise de parfumerie à Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
-
-___________
-
-<h2 align="center">Mes réalisations</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/H4D-Game>
-        <img width="120px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
-        <sub><b>H4D-Game</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game" ></a> 
-    </td>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/books-toscrape.com>
-        <img width="120px"
-          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
-        <sub><b>books-toscrape.com</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com" ></a> 
-    </td>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/Learn-home>
-        <img width="140px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkre4RYQe1rr3GEHFdysovzveuh836oPUcFw&usqp=CAU" /><br />
-        <sub><b>learn@home</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
-    </td>
-  </tr>
-</table>
 
 __________
 
