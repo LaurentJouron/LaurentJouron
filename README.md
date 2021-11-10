@@ -426,10 +426,19 @@ Projet 1 : *Les livrables : un fichier Excel du le planning de la formation, la 
 
 * Prenez en main votre formation :
   * <a href="https://openclassrooms.com/fr/courses/1946386-comprendre-le-web" target="_blank">Comprendre le Web</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5528446124" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle" target="_blank">Mettez en place un système de veille informationnelle</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/2057266091" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills" target="_blank">Développez vos soft skills</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4686788846" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre" target="_blank">Apprendre à apprendre</a>
+  et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9256773214" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement" target="_blank">Gérez votre temps efficacement</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5676208328" target="_blank">Certificat</a>
 
 Validé
 ___
@@ -438,11 +447,23 @@ Projet 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target=
 
 * Utilisez les bases de Python pour l'analyse de marché :
   * <a href="https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python" target="_blank">Apprenez les bases du langage Python</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9134081497" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees" target="_blank">Initiez-vous à Pyhon pour l'analyse de données</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3090451961" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal" target="_blank">Apprenez à utiliser la ligne de commande dans un terminal</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3193783416" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python" target="_blank">Metter en place votre environnement Python</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/2228573879" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public" target="_blank">Prenez la parole en public</a>
+ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3005255397" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github" target="_blank"> Gérez du code avec Git et GitHub</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9265560696" target="_blank">Certificat</a>
+
 
 Validé
 ___
@@ -451,8 +472,13 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
 
 * Designez une application Python adaptée aux besoins d'un client :
   * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Initiez-vous à la gestion de projet agile</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3567113522" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Appliquez le principe du Domain-Driven Design à votre application</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5942131363" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Concevez une interface cliquable</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4824654533" target="_blank">Certificat</a>
 
 
 ___
@@ -461,7 +487,10 @@ Par ailleurs, je me suis investit dans d'autre module pour mieux comprendre les 
 Voici ceux qui sont validés.
 
   * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Découvrez le fonctionnement des algorithmes</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4078283648" target="_blank">Certificat</a>
+
   * <a href="https://openclassrooms.com/fr/courses/5192236-menez-une-recherche-utilisateur/5448681-realisez-une-observation-de-terrain" target="_blank">Réalisez une observation de terrain</a>
+et accédez au <a href="" target="_blank">Certificat</a>
 
 ___
 
