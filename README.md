@@ -156,7 +156,7 @@ These are the ones that are validated.
 
 ___
 
-<h2 align="center">Various training</h2>
+<h2 align="center">Training for the software and site I use</h2>
 
 Before retraining, I took professional training on Excel and programming in VBA . 
   * Get Tosa
@@ -169,6 +169,22 @@ Before retraining, I took professional training on Excel and programming in VBA 
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJF7oQXulwnHM0ZMMHEfz6ZpP-nffAyNpWDK2UkPnwSctlw-9CK8UEGT4ZVDy8tEQ4Lc&usqp=CAU" /><br />
         <sub><b>Excel</b></sub></a><br />
       <a href=https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://www.adobe.com/fr/creativecloud.html?mv=search&mv=search&sdid=K42KVTW8&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560730!e!!g!!adobe!1435912500!56537399459&gclid=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE">
+        <img width="100px"
+          src="https://www.adobe.com/content/dam/cc/icons/xd.svg" /><br />
+        <sub><b>Téléchargez Abode XD</b></sub></a><br />
+      <a href=https://www.adobe.com/fr/creativecloud.html?mv=search&mv=search&sdid=K42KVTW8&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560730!e!!g!!adobe!1435912500!56537399459&gclid=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE" 
+         title="Téléchargez Abode XD" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://app.diagrams.net/">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS9vKeExvoTpm-cEXZUMIka4F03l9QMmAmDNPEHXR3C_q-K8CefPilaU-3H408_Fh3co&usqp=CAU" /><br />
+        <sub><b>Go to draw.io</b></sub></a><br />
+      <a href=https://app.diagrams.net/"
+         title="Go to draw.io" ></a> 
     </td>
   </tr>
 </table>
@@ -494,7 +510,7 @@ et accédez au <a href="" target="_blank">Certificat</a>
 
 ___
 
-<h2 align="center">Formation divers</h2>
+<h2 align="center">Formation pour les logiciels et site que j'utilise</h2>
 
 Avant de me reconvertir, j'ai suivi une formation professionnelle sur Excel et la programmation en VBA.
   * Obtention du Tosa
@@ -507,6 +523,22 @@ Avant de me reconvertir, j'ai suivi une formation professionnelle sur Excel et l
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJF7oQXulwnHM0ZMMHEfz6ZpP-nffAyNpWDK2UkPnwSctlw-9CK8UEGT4ZVDy8tEQ4Lc&usqp=CAU" /><br />
         <sub><b>Excel</b></sub></a><br />
       <a href=https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://www.adobe.com/fr/creativecloud.html?mv=search&mv=search&sdid=K42KVTW8&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560730!e!!g!!adobe!1435912500!56537399459&gclid=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE">
+        <img width="100px"
+          src="https://www.adobe.com/content/dam/cc/icons/xd.svg" /><br />
+        <sub><b>Téléchargez Abode XD</b></sub></a><br />
+      <a href=https://www.adobe.com/fr/creativecloud.html?mv=search&mv=search&sdid=K42KVTW8&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560730!e!!g!!adobe!1435912500!56537399459&gclid=CjwKCAiAm7OMBhAQEiwArvGi3FHq2oK2Da8lYSJPtB4xoFNbilgytRDUL-AQOHgXPe6gpI2ESrFznxoCVKIQAvD_BwE" 
+         title="Téléchargez Abode XD" ></a> 
+    </td>
+    <td align="center">
+      <a href=https://app.diagrams.net/">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS9vKeExvoTpm-cEXZUMIka4F03l9QMmAmDNPEHXR3C_q-K8CefPilaU-3H408_Fh3co&usqp=CAU" /><br />
+        <sub><b>Go to draw.io</b></sub></a><br />
+      <a href=https://app.diagrams.net/"
+         title="Go to draw.io" ></a> 
     </td>
   </tr>
 </table>
