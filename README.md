@@ -197,7 +197,47 @@ Before retraining, I took professional training on Excel and programming in VBA 
   </tr>
 </table>
 
-___
+___________
+
+<h1 align="center">Library</h1>
+
+
+I used several libraries during my training:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://docs.python-requests.org/en/latest">
+        <img width="100px"
+          src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" /><br />
+        <sub><b>Requets</b></sub></a><br />
+      <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
+    </td>
+    <td align="center">
+      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
+        <img width="100px"
+          src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" /><br />
+        <sub><b>BeautifulSoup</b></sub></a><br />
+      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="Documentation BeautifulSoup" ></a>
+    </td>
+    <td align="center">
+      <a href="https://docs.python.org/fr/3/library/csv.html">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFQCFFmRX7dsxcyLmKNYn9Umgdg71FDMsZQ&usqp=CAU" /><br />
+        <sub><b>csv</b></sub></a><br />
+      <a href="https://docs.python.org/fr/3/library/csv.html" title="Documentation csv" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://docs.python.org/3/library/os.html">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
+        <sub><b>os</b></sub></a><br />
+      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a> 
+    </td>
+  </tr>
+</table>
+
+___________
 
 
 <h2 align="center">Udemy formation</h2>
@@ -271,14 +311,14 @@ ___________
     </td>
     <td align="center">
       <a href="https://visualstudio.microsoft.com/fr/">
-        <img width="130px"
+        <img width="110px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-H3CcAG7w2nXSnlqldVWR-ER4mvFfLgqYxA&usqp=CAU" /><br />
         <sub><b>Visuable Studio Code</b></sub></a><br />
       <a href="https://visualstudio.microsoft.com/fr/" title="Visuable Studio Code" ></a>
     </td>
     <td align="center">
       <a href="https://jupyter.org/">
-        <img width="150px"
+        <img width="130px"
           src="https://jupyter.org/assets/nav_logo.svg" /><br />
         <sub><b>Jupyter Notebook</b></sub></a><br />
       <a href="https://jupyter.org/" title="Jupyter Notebook" ></a> 
@@ -559,7 +599,47 @@ Avant de me reconvertir, j'ai suivi une formation professionnelle sur Excel et l
   </tr>
 </table>
 
-___
+___________
+
+<h1 align="center">Libraries</h1>
+
+
+ J'ai utilisé plusieurs librairies pendant ma formation :
+  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://docs.python-requests.org/en/latest">
+        <img width="100px"
+          src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" /><br />
+        <sub><b>Requets</b></sub></a><br />
+      <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
+    </td>
+    <td align="center">
+      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
+        <img width="100px"
+          src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" /><br />
+        <sub><b>BeautifulSoup</b></sub></a><br />
+      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="Documentation BeautifulSoup" ></a>
+    </td>
+    <td align="center">
+      <a href="https://docs.python.org/fr/3/library/csv.html">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFQCFFmRX7dsxcyLmKNYn9Umgdg71FDMsZQ&usqp=CAU" /><br />
+        <sub><b>csv</b></sub></a><br />
+      <a href="https://docs.python.org/fr/3/library/csv.html" title="Documentation csv" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://docs.python.org/3/library/os.html">
+        <img width="100px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
+        <sub><b>os</b></sub></a><br />
+      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a> 
+    </td>
+  </tr>
+</table>
+
+___________
 
 
 <h2 align="center">Formation Udemy</h2>
