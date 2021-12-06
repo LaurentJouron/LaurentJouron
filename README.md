@@ -24,11 +24,11 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
      <td align="center">
-      <a href=https://github.com/LaurentJouron/Centre_echecs>
+      <a href=https://github.com/LaurentJouron/centre-echecs>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/22/16007793690358_chess%20club-01.png" /><br />
         <sub><b>Chess center</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="Chess center"></a> 
+      <a href=https://github.com/LaurentJouron/centre-echecs title="Chess center"></a> 
     </td>
   </tr>
 </table>
@@ -423,11 +423,11 @@ Accès direct à mes réalisations :
       <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/Centre_echecs>
+      <a href=https://github.com/LaurentJouron/centre-echecs>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/22/16007793690358_chess%20club-01.png" /><br />
         <sub><b>Centre échecs</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="Centre échecs"></a> 
+      <a href=https://github.com/LaurentJouron/centre-echecs title="Centre échecs"></a> 
     </td>
   </tr>
 </table>
