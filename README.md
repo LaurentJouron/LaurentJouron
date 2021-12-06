@@ -152,6 +152,7 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
   * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Learn about agile project management</a>
   * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Apply the Domain-Driven Design principle to your application</a>
   * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Design a clickable interface</a>
+  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Develop your sense of service</a>
 
 ___
 
@@ -558,6 +559,16 @@ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/594213
   * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Concevez une interface cliquable</a>
 et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4824654533" target="_blank">Certificat</a>
 
+  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Concevez une interface cliquable</a>
+et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5015668780" target="_blank">Certificat</a>
+
+___
+
+Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_blank">centre échecs</a>
+
+* Designez une application Python adaptée aux besoins d'un client :
+  * <a href="https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python" target="_blank">Perfectionnez-vous en python</a>
+///et accédez au <a href="" target="_blank">Certificat</a>///
 
 ___
 
