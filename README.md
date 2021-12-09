@@ -559,7 +559,7 @@ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/594213
   * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Concevez une interface cliquable</a>
 et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4824654533" target="_blank">Certificat</a>
 
-  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Concevez une interface cliquable</a>
+  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Développez votre sens du service</a>
 et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5015668780" target="_blank">Certificat</a>
 
 ___
