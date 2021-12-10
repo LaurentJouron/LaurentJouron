@@ -157,6 +157,15 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
 Validated
 ___
 
+
+Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_blank">chess-center</a>
+
+* Design a Python application tailored to a customer’s needs :
+  * <a href="https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python" target="_blank">Learn more in python</a>
+///et accédez au <a href="" target="_blank">Certificat</a>///
+
+___
+
 In addition, I have invested in other modules to better understand the needs of IT.
 These are the ones that are validated.
 
