@@ -154,6 +154,7 @@ Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank"
   * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Design a clickable interface</a>
   * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Develop your sense of service</a>
 
+Validated
 ___
 
 In addition, I have invested in other modules to better understand the needs of IT.
@@ -562,6 +563,8 @@ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/482465
   * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Développez votre sens du service</a>
 et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5015668780" target="_blank">Certificat</a>
 
+
+Validé
 ___
 
 Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_blank">centre échecs</a>
