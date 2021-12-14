@@ -250,7 +250,14 @@ I used several libraries during my training:
         <img width="100px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
         <sub><b>os</b></sub></a><br />
-      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a> 
+      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a>
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img width="150px"
+          src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
+        <sub><b>Pandas</b></sub></a><br />
+      <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
   </tr>
 </table>
@@ -672,6 +679,13 @@ ___________
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
         <sub><b>os</b></sub></a><br />
       <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/">
+        <img width="150px"
+          src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
+        <sub><b>Pandas</b></sub></a><br />
+      <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
   </tr>
 </table>
