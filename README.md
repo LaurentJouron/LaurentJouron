@@ -290,11 +290,11 @@ I used several libraries during my training:
       <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
     <td align="center">
-      <a href="https://tinydb.readthedocs.io/en/latest/">
+      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html">
         <img width="100px"
           src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
         <sub><b>TinyDB</b></sub></a><br />
-      <a href="https://tinydb.readthedocs.io/en/latest/" title="Documentation TinyDB" ></a> 
+      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html" title="Documentation TinyDB" ></a> 
     </td>
   </tr>
 </table>
@@ -724,11 +724,11 @@ ___________
       <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
     <td align="center">
-      <a href="https://tinydb.readthedocs.io/en/latest/">
+      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html">
         <img width="100px"
           src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
         <sub><b>TinyDB</b></sub></a><br />
-      <a href="https://tinydb.readthedocs.io/en/latest/" title="Documentation TinyDB" ></a> 
+      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html" title="Documentation TinyDB" ></a> 
     </td>
   </tr>
 </table>
