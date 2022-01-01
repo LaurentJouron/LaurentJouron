@@ -284,14 +284,14 @@ I used several libraries during my training:
     </td>
     <td align="center">
       <a href="https://pandas.pydata.org/">
-        <img width="150px"
+        <img width="100px"
           src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
         <sub><b>Pandas</b></sub></a><br />
       <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
     <td align="center">
       <a href="https://tinydb.readthedocs.io/en/latest/">
-        <img width="150px"
+        <img width="100px"
           src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
         <sub><b>TinyDB</b></sub></a><br />
       <a href="https://tinydb.readthedocs.io/en/latest/" title="Documentation TinyDB" ></a> 
@@ -718,14 +718,14 @@ ___________
     </td>
     <td align="center">
       <a href="https://pandas.pydata.org/">
-        <img width="150px"
+        <img width="100px"
           src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
         <sub><b>Pandas</b></sub></a><br />
       <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
     </td>
     <td align="center">
       <a href="https://tinydb.readthedocs.io/en/latest/">
-        <img width="150px"
+        <img width="100px"
           src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
         <sub><b>TinyDB</b></sub></a><br />
       <a href="https://tinydb.readthedocs.io/en/latest/" title="Documentation TinyDB" ></a> 
