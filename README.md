@@ -380,8 +380,8 @@ ___________
     </td>
     <td align="center">
       <a href="https://jupyter.org/">
-        <img width="130px"
-          src="https://jupyter.org/assets/nav_logo.svg" /><br />
+        <img width="110px"
+          src="https://jupyter.org/assets/homepage/main-logo.svg" /><br />
         <sub><b>Jupyter Notebook</b></sub></a><br />
       <a href="https://jupyter.org/" title="Jupyter Notebook" ></a> 
     </td>
@@ -808,15 +808,15 @@ Toutefois je test avec :
     </td>
     <td align="center">
       <a href="https://visualstudio.microsoft.com/fr/">
-        <img width="130px"
+        <img width="110px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-H3CcAG7w2nXSnlqldVWR-ER4mvFfLgqYxA&usqp=CAU" /><br />
         <sub><b>Visuable Studio Code</b></sub></a><br />
       <a href="https://visualstudio.microsoft.com/fr/" title="Visuable Studio Code" ></a>
     </td>
     <td align="center">
       <a href="https://jupyter.org/">
-        <img width="150px"
-          src="https://jupyter.org/assets/nav_logo.svg" /><br />
+        <img width="110px"
+          src="https://jupyter.org/assets/homepage/main-logo.svg" /><br />
         <sub><b>Jupyter Notebook</b></sub></a><br />
       <a href="https://jupyter.org/" title="Jupyter Notebook" ></a> 
     </td>
