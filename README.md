@@ -193,7 +193,8 @@ Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_bla
   * <a href="https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python" target="_blank">Learn object-oriented programming with Pyhon</a>
   access the <a href="https://openclassrooms.com/fr/course-certificates/6184569874" target="_blank">Certificate</a>
 
-
+  * <a href="https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable" target="_blank">Write maintainable Python code</a>
+  access the <a href="https://openclassrooms.com/fr/course-certificates/2709643861" target="_blank">Certificate</a>
 
 ___
 
@@ -628,6 +629,9 @@ et accédez au <a href="https://openclassrooms.com/fr/course-certificates/306306
 
   * <a href="https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python" target="_blank">Apprenez la programmation orientée objet avec Pyhon</a>
 et accédez au <a href="https://openclassrooms.com/fr/course-certificates/6184569874" target="_blank">Certificat</a>
+
+  * <a href="https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable" target="_blank">Écrivez du code Python maintenable</a>
+  access the <a href="https://openclassrooms.com/fr/course-certificates/2709643861" target="_blank">Certificat</a>
 ___
 
 Par ailleurs, je me suis investit dans d'autre module pour mieux comprendre les besoins de l'informatique.
