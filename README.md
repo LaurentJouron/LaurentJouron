@@ -263,9 +263,9 @@ I used several libraries during my training:
 <table>
   <tr>
     <td align="center">
-      <a href="https://docs.python-requests.org/en/latest">
+      <a href="https://requests.readthedocs.io/en/latest/">
         <img width="100px"
-          src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" /><br />
+          src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" /><br />
         <sub><b>Requets</b></sub></a><br />
       <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
     </td>
@@ -706,10 +706,10 @@ ___________
   
 <table>
   <tr>
-    <td align="center">
-      <a href="https://docs.python-requests.org/en/latest">
+ <td align="center">
+      <a href="https://requests.readthedocs.io/en/latest/">
         <img width="100px"
-          src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" /><br />
+          src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" /><br />
         <sub><b>Requets</b></sub></a><br />
       <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
     </td>
