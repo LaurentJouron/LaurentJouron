@@ -31,11 +31,11 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/centre-echecs title="Chess center"></a> 
     </td>
      <td align="center">
-      <a href=https://github.com/LaurentJouron/JustStreamIt>
+      <a href=https://github.com/LaurentJouron/StreamJustIt/tree/main/OCMovies-API-EN-FR-master>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/18/16004298163529_P5.png" /><br />
         <sub><b>Chess center</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
+      <a href=https://github.com/LaurentJouron/StreamJustIt/tree/main/OCMovies-API-EN-FR-master title="Just Stream It"></a> 
     </td>
   </tr>
 </table>
@@ -493,11 +493,11 @@ Accès direct à mes réalisations :
       <a href=https://github.com/LaurentJouron/centre-echecs title="Centre échecs"></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/JustStreamIt>
+      <a href=https://github.com/LaurentJouron/StreamJustIt/tree/main/OCMovies-API-EN-FR-master>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/18/16004298163529_P5.png" /><br />
         <sub><b>Chess center</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
+      <a href=https://github.com/LaurentJouron/StreamJustIt/tree/main/OCMovies-API-EN-FR-master title="Just Stream It"></a> 
     </td>
   </tr>
 </table>
