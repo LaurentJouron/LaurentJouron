@@ -30,6 +30,13 @@ Direct access to my achievements :
         <sub><b>Chess center</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/centre-echecs title="Chess center"></a> 
     </td>
+     <td align="center">
+      <a href=https://github.com/LaurentJouron/JustStreamIt>
+        <img width="140px"
+          src="https://user.oc-static.com/upload/2020/09/18/16004298163529_P5.png" /><br />
+        <sub><b>Chess center</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
+    </td>
   </tr>
 </table>
 
@@ -484,6 +491,13 @@ Accès direct à mes réalisations :
           src="https://user.oc-static.com/upload/2020/09/22/16007793690358_chess%20club-01.png" /><br />
         <sub><b>Centre échecs</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/centre-echecs title="Centre échecs"></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/JustStreamIt>
+        <img width="140px"
+          src="https://user.oc-static.com/upload/2020/09/18/16004298163529_P5.png" /><br />
+        <sub><b>Chess center</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
     </td>
   </tr>
 </table>
