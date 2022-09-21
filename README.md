@@ -37,8 +37,6 @@ Direct access to my achievements :
         <sub><b>Chess center</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
     </td>
-  </tr>
-  <tr>
      <td align="center">
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade>
         <img width="140px"
