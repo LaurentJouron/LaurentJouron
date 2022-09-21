@@ -38,6 +38,15 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
     </td>
   </tr>
+  <tr>
+     <td align="center">
+      <a href=https://github.com/LaurentJouron/Algo-Invest-Trade>
+        <img width="140px"
+          src="https://user.oc-static.com/upload/2020/09/18/1600429119334_P6.png" /><br />
+        <sub><b>AlgoInvest & Trade</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
+    </td>
+  </tr>
 </table>
 
 _________
