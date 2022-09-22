@@ -39,7 +39,7 @@ Direct access to my achievements :
     </td>
      <td align="center">
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade>
-        <img width="140px"
+        <img width="110px"
           src="https://user.oc-static.com/upload/2020/09/18/1600429119334_P6.png" /><br />
         <sub><b>AlgoInvest & Trade</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
