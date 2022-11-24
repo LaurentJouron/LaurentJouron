@@ -368,7 +368,7 @@ ___________
     <td align="center">
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows">
         <img width="130px"
-          src="https://www.qbssoftware.fr/image/cache/catalog/Editeurs/Jetbrains/jetbrains-pycharm-164-1600x1600.jpg" /><br />
+          src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /><br />
         <sub><b>Download Pycharm</b></sub></a><br />
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows" title="Download Pycharm" ></a> 
     </td>
@@ -813,7 +813,7 @@ ___________
     <td align="center">
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows">
         <img width="130px"
-          src="https://www.qbssoftware.fr/image/cache/catalog/Editeurs/Jetbrains/jetbrains-pycharm-164-1600x1600.jpg" /><br />
+          src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /><br />
         <sub><b>Téléchargez Pycharm</b></sub></a><br />
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows" title="Téléchargez Pycharm" ></a> 
     </td>
