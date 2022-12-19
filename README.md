@@ -372,6 +372,18 @@ _________
 ### ``--- Présentation en français ---``
 
 Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément dans le développement d'application.
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://laurentjouron.github.io/laurentjouron.com>
+        <img width="120px"
+          src="https://github.com/LaurentJouron/laurentjouron.com/blob/main/ressources/arriere_plan_index.jpg" /><br />
+        <sub><b>Laurent Jouron portfolio</b></sub></a><br />
+        <a href=https://laurentjouron.github.io/laurentjouron.com/></a>
+    </td>
+  </tr>
+</table>
+
 ___________
 
 <h2 align="center">Expressions-Parfumées et OpenClassrooms</h2>
