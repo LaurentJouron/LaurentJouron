@@ -61,7 +61,9 @@ _________
       width="50px" 
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToscdusMNjQbffwasgiLuCsbCNZisJRE95Fg&usqp=CAU" />
 </p>
-<a href="https://github.com/LaurentJouron#-----welcome-to-my-french-profile-----" target="_blank">Profil en français</a>
+<a href="https://github.com/LaurentJouron#-----welcome-to-my-french-profile
+-----" target="_blank">Profil en français</a>
+
 
 __________
 
@@ -69,7 +71,7 @@ __________
 <p align="center">
   <a href="https://twitter.com/LaurentJouron">
     <img alt="Twitter: LaurentJouron"
-      src="https://img.shields.io/twitter/follow/LaurentJouron.svg?style=social" target="_blank" />
+      src="https://img.shields.io/twitter/follow/LaurentJouron.svg?style=social" target="_blank"/>
   </a>   
   <a href="https://github.com/LaurentJouron">
     <img alt="GitHub followers" 
@@ -93,7 +95,7 @@ After 28 years in the field of hairdressing, I reorient myself in a world that I
         <img width="120px"
           src="https://github.com/LaurentJouron/laurentjouron.com/blob/main/ressources/arriere_plan_index.jpg" /><br />
         <sub><b>Laurent Jouron portfolio</b></sub></a><br />
-      <a href=https://laurentjouron.github.io/laurentjouron.com/ title="Laurent Jouron"></a> 
+        <a href=https://laurentjouron.github.io/laurentjouron.com/></a>
     </td>
   </tr>
 </table>
@@ -139,6 +141,20 @@ __________
           src="https://www.python.org/static/img/python-logo.png" /><br />
         <sub><b>Download Python</b></sub></a><br />
       <a href=https://www.python.org/" title="Download Python" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://validator.w3.org/">
+        <img width="130px"
+          src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png?fit=400%2C259&ssl=1"/><br/>
+        <sub><b>HTML 5 - CSS 3</b></sub></a><br />
+      <a href="https://validator.w3.org/" title="HTML 5 - CSS 3" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+        <img width="150px"
+          src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png"/><br/>
+        <sub><b>JavaScript</b></sub></a><br />
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="CSS 3" ></a> 
     </td>
   </tr>
 </table>
@@ -204,29 +220,16 @@ In order to reinforce the need, for the company as for my courses, I took some t
   </tr>
 </table>
 
-  * The Python Complete Training (Thibault Houdon)
-  * Python by Practice: 101 Corrected Exercises (Thibault Houdon)
+  * The Python
   * PyCharm Complete Training (Tibault Houdon)
-  * Python Developer Full Training 2021 (Jonathan Roux)
-  * Mobile Application Development | Full Training 2021 (Jonathan Roux)
-  * Web scraping (Sebastien Daviot)
-
-  * SQL Server for (big) beginners, 8 hours of practice (Olivier Thuillier)
-  * SQL Server: The full course of 27 hours (13 courses in 1) (Olivier Thuillier)
-  * SQL for Data Science from A to Z (real data analysis) (Rod)
-  * PHP et MySQL : the ULTIMATE training (Louis Nicolas Leuillet)
-
-  * GNU/Linux from beginner to confirmed in a few hours (Jordan Assouline)
-  * Discovery of Linux and Shell [Ubuntu/ Bash/ 2021/ Intro] (Sébastien C)
-
-  * Git and Github training from beginner to confirmed (Arnaud Mercier)
-  
-  * The Basics of Programming: Algorithmics (Matthieu Gaston )
-  * 51 algorithmic exercises (with Milo) (Matthieu Gastion)
-
-  * Blender 2.8 training from beginner to advanced (Julien Deville)
-
-  * HTML5 and CSS3: the ULTIMATE training (Louis Nicolas Leuillet)
+  * SQL
+  * PHP
+  * MySQL
+  * GNU/Linux
+  * Git and Github
+  * Algorithmics
+  * Blender
+  * HTML5 and CSS3
 
 ___________
 
@@ -244,50 +247,12 @@ ___________
         <sub><b>Download Pycharm</b></sub></a><br />
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows" title="Download Pycharm" ></a> 
     </td>
-  </tr>
-</table>
-
- However I test with:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.sublimetext.com/3">
-        <img width="110px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mg79M0jZejQAa6OE5Hh1td-RE6Cs7pQ6Og&usqp=CAU" /><br />
-        <sub><b>Sublime text 3</b></sub></a><br />
-      <a href="https://www.sublimetext.com/3" title="Sublime text 3" ></a>
-    </td>
     <td align="center">
       <a href="https://visualstudio.microsoft.com/fr/">
         <img width="110px"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-H3CcAG7w2nXSnlqldVWR-ER4mvFfLgqYxA&usqp=CAU" /><br />
         <sub><b>Visuable Studio Code</b></sub></a><br />
       <a href="https://visualstudio.microsoft.com/fr/" title="Visuable Studio Code" ></a>
-    </td>
-    <td align="center">
-      <a href="https://jupyter.org/">
-        <img width="110px"
-          src="https://jupyter.org/assets/homepage/main-logo.svg" /><br />
-        <sub><b>Jupyter Notebook</b></sub></a><br />
-      <a href="https://jupyter.org/" title="Jupyter Notebook" ></a> 
-    </td>
-  </tr>
-</table>
-
-___________
-
-
-<p align="left">For the terminal I use GIT .
-
-<table>
-  <tr>
-    <td align="center">
-      <a href=https://git-scm.com/downloads">
-        <img width="130px"
-          src="https://git-scm.com/images/logo@2x.png" /><br />
-        <sub><b>Download GIT</b></sub></a><br />
-      <a href=https://git-scm.com/downloads" title="Download GIT" ></a> 
     </td>
   </tr>
 </table>
@@ -317,6 +282,7 @@ ___
 </table>
 
 ___________
+
 <p align="center">
     <img align="left"
       width="50px" 
@@ -378,6 +344,20 @@ Accès direct à mes réalisations :
         <sub><b>Chess center</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/StreamJustIt/tree/main/OCMovies-API-EN-FR-master title="Just Stream It"></a> 
     </td>
+     <td align="center">
+      <a href=https://github.com/LaurentJouron/Algo-Invest-Trade>
+        <img width="110px"
+          src="https://user.oc-static.com/upload/2020/09/18/1600429119334_P6.png" /><br />
+        <sub><b>AlgoInvest & Trade</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/>
+        <img width="110px"
+          src="https://user.oc-static.com/upload/2020/09/18/16004297044411_P7.png" /><br />
+        <sub><b>LITReview</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/ title="LITReview"></a> 
+    </td>
   </tr>
 </table>
 
@@ -395,13 +375,9 @@ Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un un
 ___________
 
 <h2 align="center">Expressions-Parfumées et OpenClassrooms</h2>
-
-
-
 *Pour réussir la mission que je me suis fixée, je suis en alternance dans une entreprise de parfumerie à Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 
 __________
-
 
 <h2 align="center">Langage travaillé chez Expressions-Parfumées</h2>
 
@@ -427,7 +403,6 @@ __________
 __________
 
 <h2 align="center">Langage travaillé chez OpenClassrooms</h2>
-
 <table>
   <tr>
     <td align="center">
@@ -437,108 +412,26 @@ __________
         <sub><b>Téléchargez Python</b></sub></a><br />
       <a href=https://www.python.org/" title="Téléchargez Python" ></a> 
     </td>
+    <td align="center">
+      <a href="https://validator.w3.org/">
+        <img width="130px"
+          src="https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png?fit=400%2C259&ssl=1"/><br/>
+        <sub><b>HTML 5 - CSS 3</b></sub></a><br />
+      <a href="https://validator.w3.org/" title="HTML 5 - CSS 3" ></a> 
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+        <img width="150px"
+          src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png"/><br/>
+        <sub><b>JavaScript</b></sub></a><br />
+      <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="CSS 3" ></a> 
+    </td>
   </tr>
 </table>
 
 __________
 
-<h2 align="center">Formation développeur d'application Python chez OpenClassrooms</h2>
-
-
-La formation se décompose en 13 projets, qui contient des modules avec certificats à la clef.
-Voici ceux qui sont validés.
-___
-
-Projet 1 : *Les livrables : un fichier Excel du le planning de la formation, la présentation sur le Workspace et la veille technologique.*
-
-* Prenez en main votre formation :
-  * <a href="https://openclassrooms.com/fr/courses/1946386-comprendre-le-web" target="_blank">Comprendre le Web</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5528446124" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle" target="_blank">Mettez en place un système de veille informationnelle</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/2057266091" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills" target="_blank">Développez vos soft skills</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4686788846" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre" target="_blank">Apprendre à apprendre</a>
-  et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9256773214" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement" target="_blank">Gérez votre temps efficacement</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5676208328" target="_blank">Certificat</a>
-
-Validé
-___
-
-Projet 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
-
-* Utilisez les bases de Python pour l'analyse de marché :
-  * <a href="https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python" target="_blank">Apprenez les bases du langage Python</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9134081497" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees" target="_blank">Initiez-vous à Pyhon pour l'analyse de données</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3090451961" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal" target="_blank">Apprenez à utiliser la ligne de commande dans un terminal</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3193783416" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python" target="_blank">Metter en place votre environnement Python</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/2228573879" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public" target="_blank">Prenez la parole en public</a>
- et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3005255397" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github" target="_blank"> Gérez du code avec Git et GitHub</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/9265560696" target="_blank">Certificat</a>
-
-
-Validé
-___
-
-Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank">learn@home</a>
-
-* Designez une application Python adaptée aux besoins d'un client :
-  * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Initiez-vous à la gestion de projet agile</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3567113522" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Appliquez le principe du Domain-Driven Design à votre application</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5942131363" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Concevez une interface cliquable</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4824654533" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Développez votre sens du service</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/5015668780" target="_blank">Certificat</a>
-
-
-Validé
-___
-
-Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_blank">centre échecs</a>
-
-* Développer un programme logiciel en Python: 
-  * <a href="https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python" target="_blank">Perfectionnez vous en Python</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3063060046" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python" target="_blank">Apprenez la programmation orientée objet avec Pyhon</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/6184569874" target="_blank">Certificat</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable" target="_blank">Écrivez du code Python maintenable</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/2709643861" target="_blank">Certificat</a>
-___
-
-Par ailleurs, je me suis investit dans d'autre module pour mieux comprendre les besoins de l'informatique.
-Voici ceux qui sont validés.
-
-  * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Découvrez le fonctionnement des algorithmes</a>
-et accédez au <a href="https://openclassrooms.com/fr/course-certificates/4078283648" target="_blank">Certificat</a>
-
-___
-
 <h2 align="center">Formation pour les logiciels et site que j'utilise</h2>
-
-Avant de me reconvertir, j'ai suivi une formation professionnelle sur Excel et la programmation en VBA.
-  * Obtention du Tosa
 
 <table>
   <tr>
@@ -578,63 +471,7 @@ Avant de me reconvertir, j'ai suivi une formation professionnelle sur Excel et l
 
 ___________
 
-<h1 align="center">Libraries</h1>
-
-
- J'ai utilisé plusieurs librairies pendant ma formation :
-  
-<table>
-  <tr>
- <td align="center">
-      <a href="https://requests.readthedocs.io/en/latest/">
-        <img width="100px"
-          src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" /><br />
-        <sub><b>Requets</b></sub></a><br />
-      <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
-    </td>
-    <td align="center">
-      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-        <img width="100px"
-          src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" /><br />
-        <sub><b>BeautifulSoup</b></sub></a><br />
-      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="Documentation BeautifulSoup" ></a>
-    </td>
-    <td align="center">
-      <a href="https://docs.python.org/fr/3/library/csv.html">
-        <img width="100px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFQCFFmRX7dsxcyLmKNYn9Umgdg71FDMsZQ&usqp=CAU" /><br />
-        <sub><b>csv</b></sub></a><br />
-      <a href="https://docs.python.org/fr/3/library/csv.html" title="Documentation csv" ></a> 
-    </td>
-    <td align="center">
-      <a href="https://docs.python.org/3/library/os.html">
-        <img width="100px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
-        <sub><b>os</b></sub></a><br />
-      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a> 
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/">
-        <img width="100px"
-          src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
-        <sub><b>Pandas</b></sub></a><br />
-      <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
-    </td>
-    <td align="center">
-      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html">
-        <img width="100px"
-          src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
-        <sub><b>TinyDB</b></sub></a><br />
-      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html" title="Documentation TinyDB" ></a> 
-    </td>
-  </tr>
-</table>
-
-___________
-
-
 <h2 align="center">Formation Udemy</h2>
-
 Afin de renforcer le besoin, pour l'entreprise comme pour mes cours, j'ai suivi quelques formations sur le site <a href="https://www.udemy.com/" target="_blank">Udemy</a>.
 <table>
   <tr>
@@ -649,35 +486,21 @@ Afin de renforcer le besoin, pour l'entreprise comme pour mes cours, j'ai suivi 
 </table>
 
 
-  * La formation Complète Python (Thibault Houdon)
-  * Python par la pratique: 101 Exercices corrigéés (Thibault Houdon)
-  * La formation Complète PyCharm (Tibault Houdon)
-  * Développeur Python Formation Complète 2021 (Jonathan Roux)
-  * Developpeur d'Application Mobiles | Formation Complète 2021 (Jonathan Roux)
-  * Devenez un expert du web scraping - la formation - (Sebastien Daviot)
-
-  * SQL Server pour les (grands) débutant, 8 heures de pratique (Olivier Thuillier)
-  * SQL Server: Le cours complet de 27 heures (13 cours en 1) (Olivier Thuillier)
-  * SQL pour la Data Science de A à Z (analyse de data réelles) (Rod)
-  * PHP et MySQL : la formation ULTIME (Louis Nicolas Leuillet)
-
-  * Formation Git et Github de débutant à confirmé (Arnaud Mercier)
-
-  * Les bases indispensables de la programmation: Algorithmique (Matthieu Gaston )
-  * 51 exercices d'algorithmique (avec Milo) (Matthieu Gastion)
-
-  * GNU/Linux de débutant à confirlé en quelques heures (Jordan Assouline)
-  * Découverte de Linux et Shell [Ubuntu / Bash / 2021 / Intro] (Sébastien C)
-
-  * Blender 2.8 la formation du débutant à l'avancé (Julien Deville)
-
-  * HTML5 et CSS3 : le formation ULTIME (Louis Nicolas Leuillet)
+  * Python
+  * PyCharm
+  * SQL
+  * SQL Server
+  * PHP
+  * MySQL
+  * Git et Github
+  * Algorithmique
+  * GNU/Linux
+  * Blender
+  * HTML5 et CSS3
 
 ___________
 
 <h1 align="center">EDI</h1>
-
-
 <p align="left">L'EDI que j'utilise pour la programmation est Pycharm .
 
 <table>
@@ -689,20 +512,6 @@ ___________
         <sub><b>Téléchargez Pycharm</b></sub></a><br />
       <a href=https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows" title="Téléchargez Pycharm" ></a> 
     </td>
-  </tr>
-</table>
-
-Toutefois je test avec :
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.sublimetext.com/3">
-        <img width="110px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mg79M0jZejQAa6OE5Hh1td-RE6Cs7pQ6Og&usqp=CAU" /><br />
-        <sub><b>Sublime text 3</b></sub></a><br />
-      <a href="https://www.sublimetext.com/3" title="Sublime text 3" ></a>
-    </td>
     <td align="center">
       <a href="https://visualstudio.microsoft.com/fr/">
         <img width="110px"
@@ -710,34 +519,11 @@ Toutefois je test avec :
         <sub><b>Visuable Studio Code</b></sub></a><br />
       <a href="https://visualstudio.microsoft.com/fr/" title="Visuable Studio Code" ></a>
     </td>
-    <td align="center">
-      <a href="https://jupyter.org/">
-        <img width="110px"
-          src="https://jupyter.org/assets/homepage/main-logo.svg" /><br />
-        <sub><b>Jupyter Notebook</b></sub></a><br />
-      <a href="https://jupyter.org/" title="Jupyter Notebook" ></a> 
-    </td>
   </tr>
 </table>
 
 ___________
 
-
-<p align="left">Pour le terminal j'utilise GIT .
-
-<table>
-  <tr>
-    <td align="center">
-      <a href=https://git-scm.com/downloads">
-        <img width="130px"
-          src="https://git-scm.com/images/logo@2x.png" /><br />
-        <sub><b>Téléchargez GIT</b></sub></a><br />
-      <a href=https://git-scm.com/downloads" title="Téléchargez GIT" ></a> 
-    </td>
-  </tr>
-</table>
-
-___
 
 <h1 align="center">Auteur et collaborateurs</h1>
 
