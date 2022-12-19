@@ -44,6 +44,13 @@ Direct access to my achievements :
         <sub><b>AlgoInvest & Trade</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
     </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/>
+        <img width="110px"
+          src="https://user.oc-static.com/upload/2020/09/18/16004297044411_P7.png" /><br />
+        <sub><b>LITReview</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/ title="LITReview"></a> 
+    </td>
   </tr>
 </table>
 
@@ -79,15 +86,25 @@ __________
 
 
 After 28 years in the field of hairdressing, I reorient myself in a world that I have always been passionate about, computing and more precisely in application development.
-___________
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://laurentjouron.github.io/laurentjouron.com>
+        <img width="120px"
+          src="https://github.com/LaurentJouron/laurentjouron.com/blob/main/ressources/arriere_plan_index.jpg" /><br />
+        <sub><b>Laurent Jouron portfolio</b></sub></a><br />
+      <a href=https://laurentjouron.github.io/laurentjouron.com/ title="Laurent Jouron"></a> 
+    </td>
+  </tr>
+</table>
+
+__________
 
 <h2 align="center">Expressions-Parfumées et OpenClassrooms</h2>
 
-
-
 *To succeed the mission I have set myself, I am alternating in a perfumery company in Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions parfumées</a> and I follow the distance courses on the platform : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 
-___________
+__________
 
 <h2 align="center">Language worked at Expressions-Parfumées</h2>
 
@@ -128,97 +145,6 @@ __________
 
 __________
 
-<h2 align="center">Python application developer training at OpenClassrooms</h2>
-
-
-The training is divided into 13 projects, which contain modules with certificates.
-These are the ones that are validated.
-___
-
-Project 1 : *The deliverables: an Excel file of the training schedule, the presentation on the Workspace and technology watch.*
-
-* Take charge of your training :
-  * <a href="https://openclassrooms.com/fr/courses/1946386-comprendre-le-web" target="_blank">Understanding the Web</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/5528446124" target="_blank">Certificate</a>
- 
-  * <a href="https://openclassrooms.com/fr/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle" target="_blank">Implement an information monitoring system</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/2057266091" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6692406-developpez-vos-soft-skills" target="_blank">Develop your soft skills</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/4686788846" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre" target="_blank">learning to learn</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/9256773214" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement" target="_blank">Manage your time effectively</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/5676208328" target="_blank">Certificate</a>
-
-Validated
-___
-
-Project 2 : <a href="https://github.com/LaurentJouron/books-toscrape.com" target="_blank">books-toscrape.com</a>
-
-* Use the Python basics for market analysis :
-  * <a href="https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python" target="_blank">Learn the basics of the Python language</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/9134081497" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees" target="_blank">Learn about Pyhon for data analysis</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/3090451961" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal" target="_blank">Learn how to use the command line in a terminal</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/3193783416" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python" target="_blank">Setting up your Python environment</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/2228573879" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public" target="_blank">Speak in public</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/3005255397" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github" target="_blank"> Manage code with Git and GitHub</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/9265560696" target="_blank">Certificate</a>
-
-Validated
-___
-
-Projet 3 : <a href="https://github.com/LaurentJouron/Learn-home" target="_blank">learn@home</a>
-
-* Design a Python application tailored to a customer’s needs :
-  * <a href="https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile" target="_blank">Learn about agile project management</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/3567113522" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application" target="_blank">Apply the Domain-Driven Design principle to your application</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/5942131363" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/5249006-concevez-une-interface-cliquable" target="_blank">Design a clickable interface</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/4824654533" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/6510596-developpez-votre-sens-du-service" target="_blank">Develop your sense of service</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/5015668780" target="_blank">Certificate</a>
-
-Validated
-___
-
-Projet 4 : <a href="https://github.com/LaurentJouron/centre_echecs" target="_blank">chess-center</a>
-
-* Developing a software program in Python:
-  * <a href="https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python" target="_blank">Learn more in python</a>
-  et accédez au <a href="https://openclassrooms.com/fr/course-certificates/3063060046" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python" target="_blank">Learn object-oriented programming with Pyhon</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/6184569874" target="_blank">Certificate</a>
-
-  * <a href="https://openclassrooms.com/fr/courses/7160741-ecrivez-du-code-python-maintenable" target="_blank">Write maintainable Python code</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/2709643861" target="_blank">Certificate</a>
-
-___
-
-In addition, I have invested in other modules to better understand the needs of IT.
-These are the ones that are validated.
-
-  * <a href="https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes" target="_blank">Learn how algorithms work</a>
-  access the <a href="https://openclassrooms.com/fr/course-certificates/4078283648" target="_blank">Certificate</a>
-___
-
 <h2 align="center">Training for the software and site I use</h2>
 
 Before retraining, I took professional training on Excel and programming in VBA . 
@@ -256,60 +182,6 @@ Before retraining, I took professional training on Excel and programming in VBA 
         <sub><b>Go ZenHub</b></sub></a><br />
       <a href=https://www.zenhub.com/"
          title="Go ZenHub" ></a> 
-    </td>
-  </tr>
-</table>
-
-___________
-
-<h1 align="center">Library</h1>
-
-
-I used several libraries during my training:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://requests.readthedocs.io/en/latest/">
-        <img width="100px"
-          src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" /><br />
-        <sub><b>Requets</b></sub></a><br />
-      <a href="https://docs.python-requests.org/en/latest" title="Documentation Requests" ></a>
-    </td>
-    <td align="center">
-      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">
-        <img width="100px"
-          src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" /><br />
-        <sub><b>BeautifulSoup</b></sub></a><br />
-      <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="Documentation BeautifulSoup" ></a>
-    </td>
-    <td align="center">
-      <a href="https://docs.python.org/fr/3/library/csv.html">
-        <img width="100px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFQCFFmRX7dsxcyLmKNYn9Umgdg71FDMsZQ&usqp=CAU" /><br />
-        <sub><b>csv</b></sub></a><br />
-      <a href="https://docs.python.org/fr/3/library/csv.html" title="Documentation csv" ></a> 
-    </td>
-    <td align="center">
-      <a href="https://docs.python.org/3/library/os.html">
-        <img width="100px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeVC6EubMa9PBsn1aoXsbCmGEVENRpb9wlg&usqp=CAU" /><br />
-        <sub><b>os</b></sub></a><br />
-      <a href="https://docs.python.org/3/library/os.html" title="Documentation csv" ></a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/">
-        <img width="100px"
-          src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" /><br />
-        <sub><b>Pandas</b></sub></a><br />
-      <a href="https://pandas.pydata.org/" title="Documentation Pandas" ></a> 
-    </td>
-    <td align="center">
-      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html">
-        <img width="100px"
-          src="https://tinydb.readthedocs.io/en/latest/_static/logo.png" /><br />
-        <sub><b>TinyDB</b></sub></a><br />
-      <a href="https://tinydb.readthedocs.io/en/stable/getting-started.html" title="Documentation TinyDB" ></a> 
     </td>
   </tr>
 </table>
