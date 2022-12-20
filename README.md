@@ -52,6 +52,22 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/LITReview title="LITReview"></a> 
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/POO>
+        <img width="110px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIpiHGdUNAv98Sr6MfFHkG9WTPP8GQqex9g&usqp=CAU" /><br />
+        <sub><b>POO</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/POO title="POO"></a> 
+    </td>
+    <td align="center">
+        <a href=https://github.com/LaurentJouron/matrix_rain>
+          <img width="130px"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgcI2Pa-mF-ik8kSH0sOMjTJPXx13EPZiDw&usqp=CAU" /><br />
+          <sub><b>Matrix rain</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/matrix_rain title="Matrix rain"></a> 
+    </td
+  </tr>
 </table>
 
 _________
@@ -358,6 +374,22 @@ Accès direct à mes réalisations :
         <sub><b>LITReview</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/LITReview/ title="LITReview"></a> 
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/POO>
+        <img width="110px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIpiHGdUNAv98Sr6MfFHkG9WTPP8GQqex9g&usqp=CAU" /><br />
+        <sub><b>POO</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/POO title="POO"></a> 
+    </td>
+    <td align="center">
+        <a href=https://github.com/LaurentJouron/matrix_rain>
+          <img width="130px"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgcI2Pa-mF-ik8kSH0sOMjTJPXx13EPZiDw&usqp=CAU" /><br />
+          <sub><b>Matrix rain</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/matrix_rain title="Matrix rain"></a> 
+    </td
   </tr>
 </table>
 
