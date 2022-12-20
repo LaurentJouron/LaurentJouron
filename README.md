@@ -66,7 +66,14 @@ Direct access to my achievements :
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgcI2Pa-mF-ik8kSH0sOMjTJPXx13EPZiDw&usqp=CAU" /><br />
           <sub><b>Matrix rain</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/matrix_rain title="Matrix rain"></a> 
-    </td
+  </td>
+     <td align="center">
+        <a href=https://github.com/LaurentJouron/algorithme>
+          <img width="110px"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP2NU7Jg9xBXdbAfik4xLTisoHaTg_Vf3LfetgBJVzk7zFHC5eQ5QmVXJPlPZtWcWUAw&usqp=CAU" /><br />
+          <sub><b>Algorithme</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/algorithme title="Algorithme"></a> 
+  </td>
   </tr>
 </table>
 
@@ -389,7 +396,14 @@ Accès direct à mes réalisations :
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgcI2Pa-mF-ik8kSH0sOMjTJPXx13EPZiDw&usqp=CAU" /><br />
           <sub><b>Matrix rain</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/matrix_rain title="Matrix rain"></a> 
-    </td
+   </td>
+     <td align="center">
+        <a href=https://github.com/LaurentJouron/algorithme>
+          <img width="130px"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP2NU7Jg9xBXdbAfik4xLTisoHaTg_Vf3LfetgBJVzk7zFHC5eQ5QmVXJPlPZtWcWUAw&usqp=CAU" /><br />
+          <sub><b>Algorithme</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/algorithme title="Algorithme"></a> 
+   </td>
   </tr>
 </table>
 
