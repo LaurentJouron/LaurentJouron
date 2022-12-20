@@ -45,11 +45,11 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/>
+      <a href=https://github.com/LaurentJouron/LITReview/>
         <img width="110px"
           src="https://user.oc-static.com/upload/2020/09/18/16004297044411_P7.png" /><br />
         <sub><b>LITReview</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/ title="LITReview"></a> 
+      <a href=https://github.com/LaurentJouron/LITReview title="LITReview"></a> 
     </td>
   </tr>
 </table>
@@ -352,11 +352,11 @@ Accès direct à mes réalisations :
       <a href=https://github.com/LaurentJouron/Algo-Invest-Trade title="AlgoInvest & Trade"></a> 
     </td>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/>
+      <a href=https://github.com/LaurentJouron/LITReview/>
         <img width="110px"
           src="https://user.oc-static.com/upload/2020/09/18/16004297044411_P7.png" /><br />
         <sub><b>LITReview</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/ title="LITReview"></a> 
+      <a href=https://github.com/LaurentJouron/LITReview/ title="LITReview"></a> 
     </td>
   </tr>
 </table>
