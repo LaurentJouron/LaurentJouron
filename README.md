@@ -16,13 +16,6 @@ Direct access to my achievements :
         <sub><b>books-toscrape.com</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com"></a> 
     </td>
-    <td align="center">
-      <a href=https://github.com/LaurentJouron/Learn-home>
-        <img width="140px"
-          src="https://user.oc-static.com/upload/2020/09/08/1599557620417_Learn%40Home.png" /><br />
-        <sub><b>learn@home</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
-    </td>
      <td align="center">
       <a href=https://github.com/LaurentJouron/centre-echecs>
         <img width="140px"
@@ -53,6 +46,13 @@ Direct access to my achievements :
     </td>
   </tr>
   <tr>
+  <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://user.oc-static.com/upload/2020/09/08/1599557620417_Learn%40Home.png" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
+    </td>
     <td align="center">
       <a href=https://github.com/LaurentJouron/POO>
         <img width="110px"
