@@ -27,7 +27,7 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/JustStreamIt>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/18/16004298163529_P5.png" /><br />
-        <sub><b>Chess center</b></sub></a><br />
+        <sub><b>Just Stream It</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/JustStreamIt title="Just Stream It"></a> 
     </td>
      <td align="center">
