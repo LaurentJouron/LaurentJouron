@@ -17,7 +17,7 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com"></a> 
     </td>
      <td align="center">
-      <a href=https://github.com/LaurentJouron/chesscenter
+      <a href=https://github.com/LaurentJouron/chesscenter>
         <img width="140px"
           src="https://user.oc-static.com/upload/2020/09/22/16007793690358_chess%20club-01.png" /><br />
         <sub><b>Chess center</b></sub></a><br />
