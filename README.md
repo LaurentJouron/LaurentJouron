@@ -76,9 +76,9 @@ Direct access to my achievements :
   </td>
       <td align="center">
       <a href="https://github.com/LaurentJouron/TutoDjango">
-        <img width="170px"
+        <img width="160px"
           src="https://static.djangoproject.com/img/logos/django-logo-negative.png" /><br />
-        <sub><b>Téléchargez Django</b></sub></a><br />
+        <sub><b>Tuto Django</b></sub></a><br />
       <a href="https://github.com/LaurentJouron/TutoDjango" title="Tuto Django" ></a> 
     </td>
   </tr>
