@@ -82,11 +82,11 @@ Direct access to my achievements :
       <a href="https://github.com/LaurentJouron/TutoDjango" title="Tuto Django" ></a> 
     </td>
     <td align="center">
-      <a href="https://github.com/LaurentJouron/SoftDesdk">
+      <a href="https://github.com/LaurentJouron/SoftDesk">
         <img width="160px"
           src="https://user.oc-static.com/upload/2020/09/22/16007803099977_P8%20%281%29.png" /><br />
-        <sub><b>SoftDesdk</b></sub></a><br />
-      <a href="https://github.com/LaurentJouron/SoftDesdk" title="SoftDesdk" ></a> 
+        <sub><b>SoftDesk</b></sub></a><br />
+      <a href="https://github.com/LaurentJouron/SoftDesk" title="SoftDesk" ></a> 
     </td>
   </tr>
 </table>
