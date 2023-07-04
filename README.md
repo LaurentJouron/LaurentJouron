@@ -75,13 +75,6 @@ Direct access to my achievements :
       <a href=https://github.com/LaurentJouron/algorithme title="Algorithme"></a> 
     </td>
     <td align="center">
-      <a href="https://github.com/LaurentJouron/TutoDjango">
-        <img width="160px"
-          src="https://static.djangoproject.com/img/logos/django-logo-negative.png" /><br />
-        <sub><b>Tuto Django</b></sub></a><br />
-      <a href="https://github.com/LaurentJouron/TutoDjango" title="Tuto Django" ></a> 
-    </td>
-    <td align="center">
       <a href="https://github.com/LaurentJouron/SoftDesk">
         <img width="160px"
           src="https://user.oc-static.com/upload/2020/09/22/16007803099977_P8%20%281%29.png" /><br />
@@ -91,8 +84,15 @@ Direct access to my achievements :
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/LaurentJouron/TutoDjango">
+        <img width="160px"
+          src="https://static.djangoproject.com/img/logos/django-logo-negative.png" /><br />
+        <sub><b>Tuto Django</b></sub></a><br />
+      <a href="https://github.com/LaurentJouron/TutoDjango" title="Tuto Django" ></a> 
+    </td>
+    <td align="center">
       <a href=https://github.com/LaurentJouron/TutoRESTframework>
-        <img width="140px"
+        <img width="160px"
           src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" /><br />
         <sub><b>TutoRESTframework</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/TutoRESTframework title="TutoRESTframework"></a> 
