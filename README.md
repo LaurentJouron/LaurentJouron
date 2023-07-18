@@ -44,8 +44,6 @@ Direct access to my achievements :
         <sub><b>LITReview</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/LITReview title="LITReview"></a> 
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LaurentJouron/SoftDesk">
         <img width="160px"
