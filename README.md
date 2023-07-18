@@ -3,18 +3,18 @@ Direct access to my achievements :
 <table>
   <tr>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/H4D-Game>
-        <img width="120px"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
-        <sub><b>H4D-Game</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game"></a> 
-    </td>
-    <td align="center">
       <a href=https://github.com/LaurentJouron/books-toscrape.com>
         <img width="120px"
-          src="https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg" /><br />
+          src="https://user.oc-static.com/upload/2020/09/22/1600779540759_Online%20bookstore-01.png" /><br />
         <sub><b>books-toscrape.com</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/books-toscrape.com title="books-toscrape.com"></a> 
+    </td>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/Learn-home>
+        <img width="140px"
+          src="https://user.oc-static.com/upload/2020/09/07/15994931316367_logo%20dev.png" /><br />
+        <sub><b>learn@home</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
     </td>
      <td align="center">
       <a href=https://github.com/LaurentJouron/chesscenter>
@@ -47,11 +47,20 @@ Direct access to my achievements :
   </tr>
   <tr>
     <td align="center">
-      <a href=https://github.com/LaurentJouron/Learn-home>
-        <img width="140px"
-          src="https://user.oc-static.com/upload/2020/09/08/1599557620417_Learn%40Home.png" /><br />
-        <sub><b>learn@home</b></sub></a><br />
-      <a href=https://github.com/LaurentJouron/Learn-home title="learn@home"></a> 
+      <a href="https://github.com/LaurentJouron/SoftDesk">
+        <img width="160px"
+          src="https://user.oc-static.com/upload/2020/09/22/16007803099977_P8%20%281%29.png" /><br />
+        <sub><b>SoftDesk</b></sub></a><br />
+      <a href="https://github.com/LaurentJouron/SoftDesk" title="SoftDesk" ></a> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href=https://github.com/LaurentJouron/H4D-Game>
+        <img width="120px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJhnPW08iSzqpRjUDH3xhpg5607M7kzmjNQ&usqp=CAU" /><br />
+        <sub><b>H4D-Game</b></sub></a><br />
+      <a href=https://github.com/LaurentJouron/H4D-Game title="H4D-Game"></a> 
     </td>
     <td align="center">
       <a href=https://github.com/LaurentJouron/POO>
@@ -73,13 +82,6 @@ Direct access to my achievements :
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP2NU7Jg9xBXdbAfik4xLTisoHaTg_Vf3LfetgBJVzk7zFHC5eQ5QmVXJPlPZtWcWUAw&usqp=CAU" /><br />
           <sub><b>Algorithme</b></sub></a><br />
       <a href=https://github.com/LaurentJouron/algorithme title="Algorithme"></a> 
-    </td>
-    <td align="center">
-      <a href="https://github.com/LaurentJouron/SoftDesk">
-        <img width="160px"
-          src="https://user.oc-static.com/upload/2020/09/22/16007803099977_P8%20%281%29.png" /><br />
-        <sub><b>SoftDesk</b></sub></a><br />
-      <a href="https://github.com/LaurentJouron/SoftDesk" title="SoftDesk" ></a> 
     </td>
   </tr>
   <tr>
