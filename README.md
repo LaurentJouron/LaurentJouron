@@ -149,13 +149,26 @@ __________
 <table>
   <tr>
     <td align="center">
-      <img width="140px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <a href=https://docs.python.org/3/>
+        <img width="140px"
+          src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"" /><br />
+        <sub><b>doc Python</b></sub></a><br />
+      <a href=https://docs.python.org/3/ title="Doc Python"></a> 
     </td>
     <td align="center">
-      <img width="140px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+      <a href=https://www.djangoproject.com/>
+        <img width="140px"
+          src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"" /><br />
+        <sub><b>doc django</b></sub></a><br />
+      <a href=https://www.djangoproject.com/ title="Doc django"></a> 
+    </td>
     </td>
     <td align="center">
-      <img width="140px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+      <a href=https://www.django-rest-framework.org/>
+        <img width="140px"
+          src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" /><br />
+        <sub><b>doc django REST framework</b></sub></a><br />
+      <a href=https://www.django-rest-framework.org/ title="Doc django REST framework"></a> 
     </td>
      <td align="center">
        <img width="140px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
