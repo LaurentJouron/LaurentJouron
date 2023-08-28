@@ -117,9 +117,6 @@ __________
   </a>
 </p>
 
-
-*After 28 years in the field of hairdressing, I reorient myself in a world that I have always been passionate about, computing and more precisely in development.*
-
 *Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément, dans le développement.*
 
 <table>
@@ -137,8 +134,6 @@ __________
 __________
 
 <h2 align="center">Expressions-Parfumées et OpenClassrooms</h2>
-
-*To succeed the mission I have set myself, I am alternating in a perfumery company in Grasse : <a href="https://www.epparfums.com/" target="_blank">Expressions Parfumées</a> and I follow the distance courses on the platform : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 
 *Pour réussir la mission que je me suis donnée, j’alterne dans une parfumerie grassoise :  <a href="https://www.epparfums.com/" target="_blank">Expressions Parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 
