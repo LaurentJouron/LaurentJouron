@@ -177,7 +177,10 @@ __________
       <img width="140px" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
     </td>
     <td align="center">
-      <img width="140px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <a href=https://www.sqlite.org/docs.html>
+        <img width="140px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><br/>
+        <sub><b>doc sqlite</b></sub></a><br />
+      <a href=https://www.sqlite.org/docs.html title="Doc sqlite"></a>
     </td>
     <td align="center">
        <img width="140px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
