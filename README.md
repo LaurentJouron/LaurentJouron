@@ -48,14 +48,14 @@ Direct access to my achievements :
   <tr>
     <td align="center">
       <a href="https://github.com/LaurentJouron/SoftDesk">
-        <img width="160px"
+        <img width="120px"
           src="https://user.oc-static.com/upload/2020/09/22/16007803099977_P8%20%281%29.png" /><br />
         <sub><b>SoftDesk</b></sub></a><br />
       <a href="https://github.com/LaurentJouron/SoftDesk" title="SoftDesk" ></a> 
     </td>
     <td align="center">
       <a href="https://github.com/LaurentJouron/GUDLFT">
-        <img width="160px"
+        <img width="120px"
           src="https://user.oc-static.com/upload/2020/09/22/16007798203635_P9.png" /><br />
         <sub><b>GUDLFT</b></sub></a><br />
       <a href="https://github.com/LaurentJouron/GUDLFT" title="GUDLFT" ></a> 
