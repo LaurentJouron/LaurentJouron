@@ -60,6 +60,13 @@ Direct access to my achievements :
         <sub><b>GUDLFT</b></sub></a><br />
       <a href="https://github.com/LaurentJouron/GUDLFT" title="GUDLFT" ></a> 
     </td>
+    <td align="center">
+      <a href="https://github.com/LaurentJouron/EpicEvents">
+        <img width="150px"
+          src="https://user.oc-static.com/upload/2023/07/26/16903799358611_P12-02.png" /><br />
+        <sub><b>Epic events</b></sub></a><br />
+      <a href="https://github.com/LaurentJouron/EpicEvents" title="Epic events" ></a> 
+    </td>
   </tr>
   <tr>
     <td align="center">
