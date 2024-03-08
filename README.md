@@ -143,11 +143,11 @@ __________
 <table>
   <tr>
     <td align="center">
-      <a href=https://laurentjouron.github.io/laurentjouron.com>
+      <a href=https://laurentjouron.github.io/LaurentJouron.com/>
         <img width="120px"
           src="https://github.com/LaurentJouron/laurentjouron.com/blob/main/ressources/arriere_plan_index.jpg" /><br />
         <sub><b>Laurent Jouron portfolio</b></sub></a><br />
-        <a href=https://laurentjouron.github.io/laurentjouron.com/></a>
+        <a href=https://laurentjouron.github.io/LaurentJouron.com/></a>
     </td>
   </tr>
 </table>
