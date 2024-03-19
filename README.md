@@ -1,3 +1,29 @@
+<h1 align="center">Welcome to my profile GitHub😉</h1>
+<p align="center">
+  <a href="https://twitter.com/LaurentJouron">
+    <img alt="Twitter: LaurentJouron"
+      src="https://img.shields.io/twitter/follow/LaurentJouron.svg?style=social" target="_blank"/>
+  </a>   
+  <a href="https://github.com/LaurentJouron">
+    <img alt="GitHub followers" 
+      src="https://img.shields.io/github/followers/LaurentJouron?style=social" />
+  </a>
+</p>
+
+*Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément, dans le développement.*
+
+<table>
+  <tr>
+    <td align="center">
+      <a href=https://laurentjouron.github.io/LaurentJouron.com/>
+        <img width="120px"
+          src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/ReadCode.jpg" /><br />
+        <sub><b>Laurent Jouron portfolio</b></sub></a><br />
+        <a href=https://laurentjouron.github.io/LaurentJouron.com/></a>
+    </td>
+  </tr>
+</table>
+
 Direct access to my achievements :
 
 <table>
@@ -122,41 +148,6 @@ Direct access to my achievements :
     </td>
   </tr>
 </table>
-
-__________
-
-
-<h1 align="center">Welcome to my profile GitHub😉</h1>
-<p align="center">
-  <a href="https://twitter.com/LaurentJouron">
-    <img alt="Twitter: LaurentJouron"
-      src="https://img.shields.io/twitter/follow/LaurentJouron.svg?style=social" target="_blank"/>
-  </a>   
-  <a href="https://github.com/LaurentJouron">
-    <img alt="GitHub followers" 
-      src="https://img.shields.io/github/followers/LaurentJouron?style=social" />
-  </a>
-</p>
-
-*Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément, dans le développement.*
-
-<table>
-  <tr>
-    <td align="center">
-      <a href=https://laurentjouron.github.io/LaurentJouron.com/>
-        <img width="120px"
-          src="https://github.com/LaurentJouron/laurentjouron.com/blob/main/ressources/arriere_plan_index.jpg" /><br />
-        <sub><b>Laurent Jouron portfolio</b></sub></a><br />
-        <a href=https://laurentjouron.github.io/LaurentJouron.com/></a>
-    </td>
-  </tr>
-</table>
-
-__________
-
-<h2 align="center">Expressions-Parfumées et OpenClassrooms</h2>
-
-*Pour réussir la mission que je me suis donnée, j’alterne dans une parfumerie grassoise :  <a href="https://www.epparfums.com/" target="_blank">Expressions Parfumées</a> et je suis les cours à distance sur la plateforme : <a href="https://openclassrooms.com/fr/" target="_blank">OpenClassrooms</a>.*
 
 __________
 
