@@ -15,11 +15,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href=https://laurentjouron.github.io/LaurentJouron.com/>
+      <a href=https://laurentjouron.github.io.com/>
         <img width="120px"
           src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/ReadCode.jpg" /><br />
-        <sub><b>Laurent Jouron portfolio</b></sub></a><br />
-        <a href=https://laurentjouron.github.io/LaurentJouron.com/></a>
+        <sub><b>Mon portfolio</b></sub></a><br />
+        <a href=https://laurentjouron.github.io.com/></a>
     </td>
   </tr>
 </table>
