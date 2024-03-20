@@ -10,16 +10,16 @@
   </a>
 </p>
 
-*Après 28 ans passé dans le domaine de la coiffure, je me réoriente dans un univers qui me passionne depuis toujours, l'informatique et plus précisément, dans le développement.*
+*Après 28 ans passés dans le domaine de la coiffure, je suis dans l'univers qui me passionne depuis toujours, le développement informatique.*
 
 <table>
   <tr>
     <td align="center">
-      <a href=https://laurentjouron.github.io.com/>
+      <a href=https://laurentjouron.github.io>
         <img width="120px"
           src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/ReadCode.jpg" /><br />
         <sub><b>Mon portfolio</b></sub></a><br />
-        <a href=https://laurentjouron.github.io.com/></a>
+        <a href=https://laurentjouron.github.io></a>
     </td>
   </tr>
 </table>
