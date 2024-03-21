@@ -11,7 +11,7 @@ class WelcomeToMyProfile:
         self.twitter = "https://twitter.com/LaurentJouron"
 
     def say_hi(self):
-        print("Thank you for joining me. I am open to any proposals that will lead us to work together.")
+        print("Thank you for comming. I am open to any proposals that will lead us to work together.")
 ```
 
 *Après 28 ans passés dans le domaine de la coiffure, je suis dans l'univers qui me passionne depuis toujours, le développement informatique.*
