@@ -1,6 +1,7 @@
 ```Python
 class WelcomeToMyProfile:
     def __init__(self):
+        # Presentation
         self.first_name = "Laurent"
         self.last_name = "Jouron"
         self.role = "Developpeur analyste"
