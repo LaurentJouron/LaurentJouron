@@ -22,7 +22,7 @@ class Presentation:
     def welcome_to_my_profile(self):
         print("Merci de venir me rencontrer. Je suis ouvert à tout échange qui nous amènerait à collaborer.")
 
-    class Compagny(self):
+    class Compagny:
         """
         C'est après une solide formation que j'ai intégré AceSoftware.
         """
