@@ -22,10 +22,10 @@ class Presentation:
     def welcome_to_my_profile(self):
         print("Merci de venir me rencontrer. Je suis ouvert à tout échange qui nous amènerait à collaborer.")
 
-    class Compagny:
-        """
-        C'est après une solide formation que j'ai intégré AceSoftware.
-        """
+class Compagny:
+    """
+    C'est après une solide formation que j'ai intégré AceSoftware.
+    """
     def __init__(self):
         # Job
         self.compagny: str = "AceSoftware"
