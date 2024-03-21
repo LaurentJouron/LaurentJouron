@@ -16,17 +16,16 @@ class Presentation:
         self.linkedin: str = "https://www.linkedin.com/in/laurent-jouron/"
         self.twitter: str = "https://twitter.com/LaurentJouron"
 
-        # Job
-        self.compagny: str = "AceSoftware"
-        self.compagny_location: str = "Valbonne"
-
         # Portfolio
         self.portfolio: str = "LaurentJouron.github.io"
 
     def welcome_to_my_profile(self):
         print("Thank's for comming. I am open to any proposals that will lead us to work together.")
 
-    class Compagny(self, Presentation):
+    class Compagny(self):
+        """
+        C'est après une solide formation que j'ai intégré AceSoftware.
+        """
     def __init__(self):
         # Job
         self.compagny: str = "AceSoftware"
