@@ -1,21 +1,38 @@
 ```Python
-class WelcomeToMyProfile:
+class Presentation:
+    """
+    Après 28 ans passés dans le domaine de la coiffure, je suis me reconverti dans le développement.
+    """
     def __init__(self):
         # Presentation
-        self.first_name = "Laurent"
-        self.last_name = "Jouron"
-        self.role = "Developpeur analyste"
-        self.location = "La-Roquette-sur-Siagne"
+        self.first_name: str = "Laurent"
+        self.last_name: str = "Jouron"
+        self.age: int = 47
+        self.role: str = "Developpeur analyste"
+        self.location: str = "La-Roquette-sur-Siagne"
+        self.email: str = "jouronlaurent@hotmail.com"
         
         # Social Media
-        self.linkedin = "https://www.linkedin.com/in/laurent-jouron/"
-        self.twitter = "https://twitter.com/LaurentJouron"
+        self.linkedin: str = "https://www.linkedin.com/in/laurent-jouron/"
+        self.twitter: str = "https://twitter.com/LaurentJouron"
 
-    def say_hi(self):
-        print("Thank you for comming. I am open to any proposals that will lead us to work together.")
+        # Job
+        self.compagny: str = "AceSoftware"
+        self.compagny_location: str = "Valbonne"
+
+        # Portfolio
+        self.portfolio: str = "LaurentJouron.github.io"
+
+    def welcome_to_my_profile(self):
+        print("Thank's for comming. I am open to any proposals that will lead us to work together.")
+
+    class Compagny(self, Presentation):
+    def __init__(self):
+        # Job
+        self.compagny: str = "AceSoftware"
+        self.compagny_location: str = "Valbonne"
+        self.website: str = "https://www.acesoftware.fr/"
 ```
-
-*Après 28 ans passés dans le domaine de la coiffure, je suis dans l'univers qui me passionne depuis toujours, le développement informatique.*
 
 <table>
   <tr>
