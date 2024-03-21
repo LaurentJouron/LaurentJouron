@@ -20,7 +20,7 @@ class Presentation:
         self.portfolio: str = "LaurentJouron.github.io"
 
     def welcome_to_my_profile(self):
-        print("Merci de venir me rencontrer. Je suis ouvert à toute échange qui nous amènerait à collaborer.")
+        print("Merci de venir me rencontrer. Je suis ouvert à tout échange qui nous amènerait à collaborer.")
 
     class Compagny(self):
         """
