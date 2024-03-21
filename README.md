@@ -1,14 +1,18 @@
-<h1 align="center">Welcome to my profile GitHub😉</h1>
-<p align="center">
-  <a href="https://twitter.com/LaurentJouron">
-    <img alt="Twitter: LaurentJouron"
-      src="https://img.shields.io/twitter/follow/LaurentJouron.svg?style=social" target="_blank"/>
-  </a>   
-  <a href="https://github.com/LaurentJouron">
-    <img alt="GitHub followers" 
-      src="https://img.shields.io/github/followers/LaurentJouron?style=social" />
-  </a>
-</p>
+```Python
+class WelcomeToMyProfile:
+    def __init__(self):
+        self.first_name = "Laurent"
+        self.last_name = "Jouron"
+        self.role = "Developpeur analyste"
+        self.location = "La-Roquette-sur-Siagne"
+        
+        # Social Media
+        self.linkedin = "https://www.linkedin.com/in/laurent-jouron/"
+        self.twitter = "https://twitter.com/LaurentJouron"
+
+    def say_hi(self):
+        print("Thank you for joining me. I am open to any proposals that will lead us to work together.")
+```
 
 *Après 28 ans passés dans le domaine de la coiffure, je suis dans l'univers qui me passionne depuis toujours, le développement informatique.*
 
