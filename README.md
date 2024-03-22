@@ -1,8 +1,5 @@
 ```Python
-class Presentation:
-    """
-    Après 28 ans passés dans le domaine de la coiffure, je suis me reconverti dans le développement.
-    """
+class User:
     def __init__(self):
         # Presentation
         self.first_name: str = "Laurent"
@@ -11,18 +8,23 @@ class Presentation:
         self.role: str = "Developpeur analyste"
         self.location: str = "La-Roquette-sur-Siagne"
         self.email: str = "jouronlaurent@hotmail.com"
+        self.first_role: str = "coiffeur"
         
         # Social Media
         self.linkedin: str = "https://www.linkedin.com/in/laurent-jouron/"
         self.twitter: str = "https://twitter.com/LaurentJouron"
+        self.github: str = "https://github.com/LaurentJouron"
 
         # Portfolio
         self.portfolio: str = "LaurentJouron.github.io"
 
-    def welcome_to_my_profile(self):
-        print("Merci de venir me rencontrer. Je suis ouvert à tout échange qui nous amènerait à collaborer.")
+    def welcome(self):
+        print(f"Venez échanger avec moi sur {self.email}, je suis ouvert à tout échange qui nous amènerait à collaborer.")
 
-class Compagny:
+    def conversion(self):
+        print(f"Après 28 ans en tant que {self.first_role}, j'ai décidé de me réorienté en tant que {self.role}.")
+
+class Compagny(User):
     """
     C'est après une solide formation que j'ai intégré AceSoftware.
     """
