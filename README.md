@@ -5,7 +5,7 @@ class User:
         self.first_name: str = "Laurent"
         self.last_name: str = "Jouron"
         self.age: int = 47
-        self.role: str = "Developpeur analyste"
+        self.role: str = "developpeur analyste"
         self.location: str = "La-Roquette-sur-Siagne"
         self.email: str = "jouronlaurent@hotmail.com"
         self.first_role: str = "coiffeur"
@@ -26,11 +26,11 @@ class User:
 
 class Compagny(User):
     """
-    C'est après une solide formation que j'ai intégré AceSoftware.
+    C'est après une solide formation que j'ai intégré Ace Software.
     """
     def __init__(self):
         # Job
-        self.compagny: str = "AceSoftware"
+        self.compagny: str = "Ace Software"
         self.compagny_location: str = "Valbonne"
         self.website: str = "https://www.acesoftware.fr/"
 ```
