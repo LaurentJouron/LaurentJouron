@@ -44,6 +44,13 @@ class Compagny(User):
         <sub><b>Mon portfolio</b></sub></a><br />
         <a href=https://laurentjouron.github.io></a>
     </td>
+    <td align="center">
+      <a href=https://madoc.readthedocs.io/fr/latest/#key-resources>
+        <img width="100px"
+          src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/img/logo/ikigai.png" /><br />
+        <sub><b>Ma doc</b></sub></a><br />
+        <a href=https://madoc.readthedocs.io/fr/latest/#key-resources></a>
+    </td>
   </tr>
 </table>
 
