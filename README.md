@@ -23,16 +23,6 @@ class User:
 
     def conversion(self):
         print(f"Après 28 ans en tant que {self.first_role}, j'ai décidé de me réorienté en tant que {self.role}.")
-
-class Compagny(User):
-    """
-    C'est après une solide formation que j'ai intégré Ace Software.
-    """
-    def __init__(self):
-        # Job
-        self.compagny: str = "Ace Software"
-        self.compagny_location: str = "Valbonne"
-        self.website: str = "https://www.acesoftware.fr/"
 ```
 
 <table>
