@@ -19,10 +19,10 @@ class User:
         self.portfolio: str = "LaurentJouron.github.io"
 
     def welcome(self):
-        print(f"Venez échanger avec moi sur {self.email}, je suis ouvert à tout échange qui nous amènerait à collaborer.")
+        print(f"Venez échanger avec moi sur {self.email}. Je suis ouvert à tout échange qui nous amènerait à collaborer.")
 
     def conversion(self):
-        print(f"Après 28 ans en tant que {self.first_role}, j'ai décidé de me réorienté en tant que {self.role}.")
+        print(f"Après 28 ans en tant que {self.first_role}, j'ai décidé de me réorienté pour être {self.role}.")
 ```
 
 <table>
