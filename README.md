@@ -31,7 +31,7 @@ class User:
       <a href=https://laurentjouron.github.io>
         <img width="120px"
           src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/ReadCode.jpg" /><br />
-        <sub><b>Mon portfolio</b></sub></a><br />
+        <sub><b>Mon premier portfolio</b></sub></a><br />
         <a href=https://laurentjouron.github.io></a>
     </td>
     <td align="center">
@@ -40,6 +40,13 @@ class User:
           src="https://raw.githubusercontent.com/LaurentJouron/LaurentJouron.github.io/main/ressources/img/logo/ikigai.png" /><br />
         <sub><b>Ma doc</b></sub></a><br />
         <a href=https://madoc.readthedocs.io/fr/latest/#key-resources></a>
+    </td>
+    <td align="center">
+      <a href= https://www.laurentjouron.dev/ >
+        <img width="100px"
+          src="https://www.laurentjouron.dev/media/images/profile_drawing_2X1IPCT.2e16d0ba.fill-170x170.png" /><br />
+        <sub><b>Mon portfolio officiel</b></sub></a><br />
+        <a href= https://www.laurentjouron.dev/ ></a>
     </td>
   </tr>
 </table>
