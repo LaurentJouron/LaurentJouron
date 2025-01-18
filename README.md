@@ -6,9 +6,12 @@ class User:
         self.last_name: str = "Jouron"
         self.age: int = 47
         self.role: str = "developpeur analyste"
-        self.location: str = "La-Roquette-sur-Siagne"
         self.email: str = "jouronlaurent@hotmail.com"
-        self.first_role: str = "coiffeur"
+        self.source = {
+            'Was born': ['Toul','France','Meurthe-et-Moselle'],
+            'I have lived': [['Maroc','Casablanca'], ['USA', 'Pittsburgh'], ['Spain', 'Alicante']],
+            'Where I live': ['France','La Roquette-sur-Siagne'],
+        },
         
         # Social Media
         self.linkedin: str = "https://www.linkedin.com/in/laurent-jouron/"
@@ -16,13 +19,17 @@ class User:
         self.github: str = "https://github.com/LaurentJouron"
 
         # Portfolio
-        self.portfolio: str = "LaurentJouron.github.io"
+        self.web = 'https://www.laurentjouron.dev/'
 
-    def welcome(self):
-        print(f"Venez discuter avec moi sur {self.email}. Je suis ouvert aux échanges qui nous amènerait à collaborer.")
-
-    def conversion(self):
-        print(f"Après 28 ans en tant que {self.first_role}, j'ai décidé de me réorienté pour être {self.role}.")
+        self.architecture = ['MVC', 'Repository'],
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Tailwind'],
+            'backend': ['Python', 'Flask', 'Django','DRF', 'Wagtail'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'devops': ['Docker', 'Heroku','Docker-compose'],
+            'tools': ['GIT', 'GitHub'],
+            'ides': ['Visual Studio Code', 'PyCharm'],
+        },
 ```
 
 <table>
